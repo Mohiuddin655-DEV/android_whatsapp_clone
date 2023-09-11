@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_add_status" translatable="false">Add Status</string>
+    <string name="title_chats" translatable="false">Chats</string>
+    <string name="title_status" translatable="false">Status</string>
+    <string name="title_calls" translatable="false">Calls</string>
+    <string name="title_search" translatable="false">Search</string>
+    <string name="title_new_group" translatable="false">New group</string>
+    <string name="title_new_broadcast" translatable="false">New broadcast</string>
+    <string name="title_linked_devices" translatable="false">Linked devices</string>
+    <string name="title_starred_messages" translatable="false">Starred messages</string>
+    <string name="title_status_privacy" translatable="false">Status privacy</string>
+    <string name="title_clear_call_log" translatable="false">Clear call log</string>
+    <string name="title_settings">Settings</string>
+</resources>
